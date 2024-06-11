@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring DevOps Engineer</h3>
 
 <div style="display:flex;">
-        <div class="box">Div 1</div>
-        <div class="box">Div 2</div>
+        <div style="flex: 1;border: 1px solid #000;padding: 20px;text-align: center;">Div 1</div>
+        <div style="flex: 1;border: 1px solid #000;padding: 20px;text-align: center;">Div 2</div>
     </div>
 
  - 🌱 I’m currently learning **Github,Docker, Terraform** <br>
