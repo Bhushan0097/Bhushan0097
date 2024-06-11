@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
 <h3 align="center">Aspiring DevOps Engineer</h3>
 
-<div class="container">
+<div style ="display:flex">
         <div class="box">Div 1</div>
         <div class="box">Div 2</div>
     </div>
