@@ -3,10 +3,10 @@
 
 <table>
   <tr>
-    <th> - 🌱 I’m currently learning **Github,Docker, Terraform**
-- 👨‍💻 All of my projects are available at [https://bhushan0097.github.io/](https://bhushan0097.github.io/)
-- 💬 Ask me about **Linux, AWS**
-- 📫 How to reach me **bhushannagrale21@outlook.com**</th>
+    <th> - 🌱 I’m currently learning **Github,Docker, Terraform** <br>
+- 👨‍💻 All of my projects are available at [https://bhushan0097.github.io/](https://bhushan0097.github.io/)  <br>
+- 💬 Ask me about **Linux, AWS**  <br>
+- 📫 How to reach me **bhushannagrale21@outlook.com**  <br> </th> 
     <th>Contact</th> 
   </tr>
   <tr>
